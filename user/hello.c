@@ -8,5 +8,6 @@ int main(int argc,char * argv){
 	}
 
 	printf("hello Linux:)\n");
+    printf("version control is so fucking hard\n");
 	exit(0);
 }
